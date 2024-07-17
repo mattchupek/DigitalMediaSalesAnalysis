@@ -155,8 +155,3 @@ SELECT
  ,country
 FROM chinook.customers
 WHERE country <> 'USA';
-
-
-
-------- cleaning ------
--- Remove rows with missing values
