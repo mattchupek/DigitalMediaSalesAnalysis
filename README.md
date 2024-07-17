@@ -5,7 +5,8 @@
 
 This project provides a comprehensive visualization and analysis of sales made by a digital media store. I aimed to find insights in sales by employee as well as customer demographics.
 
-![Alt Text](BikeSalesDashboard_.png)
+![Alt Text](DigitalMediaStoreDashboard.png)
+
 
 
 ### Steps Taken
